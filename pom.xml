@@ -76,7 +76,7 @@
         <maven-war-plugin.version>3.3.1</maven-war-plugin.version>
         <jacoco-maven-plugin>0.8.6</jacoco-maven-plugin>
 
-        <!-- Docker image -->
+        <!-- Docker image for jenkins-->
         <docker.jib-maven-plugin.version>2.6.0</docker.jib-maven-plugin.version>
         <docker.image.prefix>springcommunity</docker.image.prefix>
 
